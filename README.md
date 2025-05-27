@@ -21,6 +21,7 @@ todo-api-realtime/
 ├── README.md              # Documentación del proyecto
 ├── public/
 │   ├── index.html         # Frontend HTML
+│   ├── styles.css         # Estilos CSS separados
 │   └── app.js             # JavaScript separado (evita problemas CSP) básico para probar la aplicación
 └── tasks.db              # Base de datos SQLite (se crea automáticamente)
 ```
